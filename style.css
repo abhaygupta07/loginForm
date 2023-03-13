@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    background-color: #36525e;
+    color: white;
+}
+input{
+    background-color:white;
+    width: 50%;
+    height: 30px;
+    margin: 4px auto;
+    border-radius: 5px;
+}
+::-webkit-input-placeholder{
+    text-align: center;
+}
+.l1div{
+    text-align: center;
+}
+.mainDiv{
+    text-align: center;
+
+}
